@@ -1,2 +1,0 @@
-default - 172.20.3.8
-in-office (team mentor only) - 18.209.229.184
